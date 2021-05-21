@@ -1,37 +1,20 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
-
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
-
 # [Website Link](https://beatricek222.github.io/sample-site-KTP/)
 
 
 ## Preview
-
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://beatricek222.github.io/sample-site-KTP/)
-
 **[View Live Preview](https://beatricek222.github.io/sample-site-KTP/)**
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-resume/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-resume/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-resume?type=dev)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
 
 ## Usage
 
 ### Basic Usage
+The first step is to get the files from your website onto your local computer 
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+You'll want to start by cloning this repository to your computer. You can do this by typing the command `git clone "https://github.com/URL OF YOUR REPO HERE" into the terminal on your PC.
+
+You can also install the Github Desktop client, log in, and download your repository to your computer from there.
+
+After downloading, simply edit the index.html file for content, and the CSS\styles.css file for colors. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
 
@@ -50,25 +33,12 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 You must have npm installed in order to use this build environment.
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
-
 ## About
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-- <https://davidmiller.io>
-- <https://twitter.com/davidmillerhere>
-- <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+This website was designed for you as part of a fundraiser for the University of Chicago chapter of Kappa Theta Pi, the Professional Technology Fraternity.
 
 ## Copyright and License
+
+This website contains some open source code developed by Start Bootstrap:
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
